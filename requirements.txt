@@ -16,6 +16,7 @@ js2py
 lk21
 lxml
 messages
+mega
 psutil
 psycopg2-binary
 pybase64
